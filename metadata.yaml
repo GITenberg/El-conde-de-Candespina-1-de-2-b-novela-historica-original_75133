@@ -1,11 +1,16 @@
 _repo: El-conde-de-Candespina-1-de-2-b-novela-historica-original_75133
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75133-h/images/cover.jpg
 creator:
   author:
     agent_name: Escosura, Patricio de la
     gutenberg_agent_id: '57851'
     url: http://www.gutenberg.org/2009/agents/57851
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75133#El-conde-de-Candespina-1-de-2-b-novela-historica-original
 gutenberg_issued: '2025-01-18'
 gutenberg_type: Text
 identifiers:
